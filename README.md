@@ -1,2 +1,2 @@
 # Fashion_classification_as
-Classification model for clothings 
+Classification model for clothing
